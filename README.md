@@ -1,2 +1,2 @@
-# jsstopwatch
-Cronometro em JS
+# Js Stopwatch
+Cronômetro em Java Script
